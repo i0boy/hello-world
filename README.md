@@ -40,4 +40,9 @@ git 학습을 위한 repo
 
 - 충돌이 나도 겁내지 말고 해결하자
 
-  
+
+
+
+깃 배우기 좋은 곳 링크
+
+https://learngitbranching.js.org/?locale=ko
